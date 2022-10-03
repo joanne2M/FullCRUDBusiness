@@ -1,0 +1,72 @@
+/* RESUMES, CVS AND OTHER STUFF */
+
+.CardHolders{
+    display: flex;
+    justify-content: space-evenly;
+     
+  }
+  
+  .Text{
+    color: white;
+    justify-content: center;
+    font-size: larger;
+  }
+  
+  .card{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .AllImages{
+   display: flex;
+   width: 400px;
+    height: auto;
+
+  }
+
+  .NewImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10px;
+    width: auto;
+  }
+  
+  .btn-primary{
+  display: flex;
+  background-color: white;
+  border-color: black;
+  color: black;
+  justify-content: center;
+  font-weight: bold;
+  font-size: large;
+  }
+
+  h1{
+    border: 10px;
+    border-color: #000000;
+    border-style: solid;
+    text-align: center;
+  
+  }
+  
+  h2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color: black;
+
+  }
+
+  h5{
+    border: 10px;
+    border-color: #000000;
+    border-style: solid;
+    text-align: center;
+  
+  }
+
+  .YouTubeVid{
+    justify-content: center;
+    text-align: center;
+  }
